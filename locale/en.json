@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token Cost Estimate",
+    "description": "Adds a USD estimate, priced per input/output bucket, to the composer's Token usage panel."
+  }
+}
