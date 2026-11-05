@@ -4,6 +4,11 @@
   "private": true,
   "description": "Adds a USD cost estimate to the composer's Token usage panel, priced from the session model's published rates.",
   "type": "module",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azadix/dsh-usd-usage.git"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
